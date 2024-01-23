@@ -46,6 +46,7 @@ function applyGrayscale() {
 
 function loadMore() {}
 
+
 // Initial load of photos
 fetchPhotos();
 
